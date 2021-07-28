@@ -1,4 +1,4 @@
-import 'package:cozinhando_casa/telas/home/home.dart';
+import 'package:cozinhando_casa/telas/home.dart';
 import 'package:flutter/material.dart';
 
 void main() {
